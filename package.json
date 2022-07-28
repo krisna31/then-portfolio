@@ -4,6 +4,7 @@
   "homepage": ".",
   "private": true,
   "dependencies": {
+    "@react-spring/three": "^9.5.2",
     "@react-three/drei": "^9.17.3",
     "@react-three/fiber": "^8.2.2",
     "@testing-library/jest-dom": "^5.16.4",
